@@ -1,0 +1,8 @@
+name: MiniCapsName
+version: 1.0.0
+main: com.everdusk.minicaps.MiniCapsPlugin
+api-version: '1.21'
+author: RealPrinario
+description: Adds mini-caps player name placeholders.
+softdepend:
+  - PlaceholderAPI
